@@ -10,7 +10,8 @@
  </p>
 
 ## Setup
-# from test
 ```
 npm i && npm start
 ```
+
+#testing main
